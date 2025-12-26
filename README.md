@@ -1,5 +1,5 @@
-# 💫 About Me:
-Harish Mosarraf<br>Java Full Stack Developer | Problem Solver | DSA Problem Solver
+#Harish Mosarraf<br>
+Java Full Stack Developer | Problem Solver | DSA Problem Solver
 
 
 ## 🌐 Socials:
